@@ -8,7 +8,7 @@ Let me put you on with my adventure as a passionate Data Scientist and enthusias
 - 🔭 I’m currently working on how to sell myself with projects, a website, and more!
 - 🤔 I’m looking for help with improving my skill set as a Data Scientist!
 - 💬 Ask me about the vision for my career in next 15 years!
-- 📫 How to reach me: [Rindhuja Johnson](rindhujatreesa@gmail.com)
+- 📫 How to reach me: [Rindhuja Johnson](mailto:rindhujatreesa@gmail.com)
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I love problem-solving, especially when it has a taste of Physics and reality!
 
