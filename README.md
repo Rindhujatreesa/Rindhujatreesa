@@ -15,7 +15,7 @@ Let me put you on with my adventure as a passionate Data Scientist and enthusias
 ### Find me here!
 
 <a href="https://www.linkedin.com/in/rindhuja-johnson/" target="_blank">
-  <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="50" height="50" style = "fill:"#0A66C2">
+  <img src="linkedin.svg" alt="LinkedIn" width="50" height="50" style="fill:#0A66C2;">
 </a>
 
 ### My GitHub at a Glance!
