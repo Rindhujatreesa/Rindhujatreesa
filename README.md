@@ -12,5 +12,13 @@ Let me put you on with my adventure as a passionate Data Scientist and enthusias
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I love problem-solving, especially when it has a taste of Physics and reality!
 
+### Find me here!
+
+<a href="https://www.linkedin.com/in/rindhuja-johnson/" target="_blank">
+  <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="50" height="50" style="fill:#0077b5">
+</a>
+
+### My GitHub at a Glance!
+
   <img src="https://github-readme-stats.vercel.app/api?username=Rindhujatreesa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
