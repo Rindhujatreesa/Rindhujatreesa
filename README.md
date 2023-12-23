@@ -14,8 +14,8 @@ Let me put you on with my adventure as a passionate Data Scientist and enthusias
 
 ### Find me here!
 
-<a href="https://www.linkedin.com/in/rindhuja-johnson/" target="_blank">
-  <img src="linkedin.svg" alt="LinkedIn" width="50" height="50" style="fill:#0A66C2;">
+<a href="https://www.linkedin.com/in/rindhuja-johnson/" target="_blank" >
+  <img src="https://img.shields.io/badge/_-0077B5?logo=linkedin&style=social" alt="LinkedIn"> 
 </a>
 
 ### My GitHub at a Glance!
