@@ -5,8 +5,8 @@ You have landed in Rindhuja land! Welcome and it's my pleasure to see you here!
 Let me put you on with my adventure as a passionate Data Scientist and enthusiastic learner so far!
 
 - 🌱 I’m currently a Graduate student in Data Science at UMBC
-- 🔭 I’m currently working on how to sell myself with projects, a website, and more!
-- 🤔 I’m looking for help with improving my skill set as a Data Scientist!
+- 🔭 I’m currently on look out for entry-level Data Analyst full-time roles!
+- 🤔 I’m looking forward to improving my skill set as a Data Scientist!
 - 💬 Ask me about the vision for my career in next 15 years!
 - 📫 How to reach me: [rindhujatreesa@gmail.com](mailto:rindhujatreesa@gmail.com)
 - 😄 Pronouns: She/her/hers
