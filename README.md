@@ -4,7 +4,7 @@ You have landed in Rindhuja's Tech World! Welcome and it's my pleasure to see yo
 
 Let me put you on with my adventure as a passionate Data Scientist and enthusiastic learner so far!
 
-- 🌱 I’m currently a Graduate student in Data Science at UMBC
+- 🌱 I’m a Graduate student in Data Science at UMBC
 - 🔭 I’m currently on look out for entry-level Data Analyst full-time roles!
 - 🤔 I’m looking forward to improving my skill set as a Data Scientist!
 - 💬 Ask me about the vision for my career in next 15 years!
