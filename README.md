@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You have landed in Rindhuja's Tech World! Welcome and it's my pleasure to see you here!
+You have landed in Rindhuja's Data World! Welcome and it's my pleasure to see you here!
 
 Let me put you on with my adventure as a passionate Data Scientist and enthusiastic learner so far!
 
