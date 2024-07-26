@@ -26,5 +26,9 @@ Let me put you on with my adventure as a passionate Data Scientist and enthusias
 
 ### My GitHub at a Glance!
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Rindhujatreesa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rindhujatreesa&label=Profile%20views&color=0e75b6&style=flat" alt="RindhujaTreesa" /> </p>
 
+![](https://github-readme-stats.vercel.app/api?username=Rindhujatreesa&show_icons=true&theme=highcontrast&hide_border=true)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rindhujatreesa&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a> </br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rindhujatreesa&theme=highcontrast&hide_progress=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
