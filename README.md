@@ -5,9 +5,9 @@ You have landed in Rindhuja's Data World! Welcome and it's my pleasure to see yo
 Let me put you on with my adventure as a passionate Data Scientist and enthusiastic learner so far!
 
 - 🌱 I’m a Master's Graduate in Data Science from UMBC and Physics from Pondicherry University
-- 🔭 I’m currently on look out for <b>Data Analyst/Scientist, Research Analyst, or Quantitative Analyst/Researcher </b> full-time roles!
-- 🤔 I’m looking forward to improving my skill set as a Data Scientist!
-- 💬 Ask me about the vision for my career in next 15 years!
+- 🔭 I’m currently on look out for <b>Data Analyst/Scientist, AI/LLM/Prompt Engineer </b> full-time roles!
+- 🤔 I’m looking forward to improving my skill set as an LLM expert!
+- 💬 Ask me about the vision for my career in next 10 years!
 - 📫 How to reach me: [rindhujatreesa@gmail.com](mailto:rindhujatreesa@gmail.com)
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I love problem-solving, especially when it has a taste of Physics and reality!
